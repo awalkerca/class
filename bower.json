@@ -1,0 +1,19 @@
+{
+  "name": "class",
+  "version": "0.0.1",
+  "homepage": "https://github.com/awalkerca/class",
+  "authors": [
+    "Andrew Walker <contact@awalker.ca>"
+  ],
+  "description": "Simple JS Class inheritance constructor",
+  "main": "class.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
